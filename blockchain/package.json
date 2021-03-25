@@ -1,0 +1,23 @@
+{
+  "name": "@ringeisen/blockchain",
+  "version": "1.0.0",
+  "description": "NodeJS Blockchain utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "unittest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautierringeisen/node_modules.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "NodeJS"
+  ],
+  "author": "Gautier Ringeisen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautierringeisen/node_modules/issues"
+  },
+  "homepage": "https://github.com/gautierringeisen/node_modules#readme"
+}
